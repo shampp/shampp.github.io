@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Shameem's Home Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,9 @@ redirect_from:
 
 About Me
 ======
-I am Shameem Ahamed Puthiya Parambath (shortly Shameem Parambath)
+I am Shameem Ahamed Puthiya Parambath (shortly Shameem Parambath).
+I am currently working as a post-doctoral researcher in Qatar Computing Research Institute, Doha, Qatar.
+I completed by PhD from University of Technology of Compiegne, France part of Sorbonne University Association, under the supervision of Yves Grandvalet & Nicolas Usunier.
 
 Getting started
 ======
