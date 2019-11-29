@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "Personal Web Page"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#Biography
+Biography
 ======
 I am Shameem Ahamed Puthiya Parambath, in short Shameem Parambath.
 I am currently working as a post-doctoral researcher at Qatar Computing Research Institute (QCRI), Qatar.
