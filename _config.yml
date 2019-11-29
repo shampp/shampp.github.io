@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shameem Parambath's Home Page"
+title                    : "Personal Web Page"
 title_separator          : "-"
-name                     : &name "Shameem Ahamed Parambath"
+name                     : &name "Shameem Ahamed Puthiya Parambath"
 description              : &description "Post-Doctoral Researcher in Machine Learning"
 url                      : https://shampp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
