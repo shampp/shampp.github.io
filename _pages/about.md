@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+About Me
+======
+I am Shameem Ahamed Puthiya Parambath (shortly Shameem Parambath)
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
