@@ -6,7 +6,6 @@ excerpt: 'We consider the problem of generating diverse, personalized recommenda
 date: 2016-09-07
 venue: 'RecSys 2016'
 [paperurl]('https://dl.acm.org/citation.cfm?id=2959149')
-citation: 'http://papers.nips.cc/paper/5508-optimizing-f-measures-by-cost-sensitive-classification/bibtex'
 ---
 
 [Download paper here](http://papers.nips.cc/paper/5508-optimizing-f-measures-by-cost-sensitive-classification/)

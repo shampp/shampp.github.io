@@ -8,7 +8,6 @@ venue: 'NIPS 2014'
 paperurl: 'http://papers.nips.cc/paper/5508-optimizing-f-measures-by-cost-sensitive-classification/'
 citation: 'http://papers.nips.cc/paper/5508-optimizing-f-measures-by-cost-sensitive-classification/bibtex'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://papers.nips.cc/paper/5508-optimizing-f-measures-by-cost-sensitive-classification/)
 
