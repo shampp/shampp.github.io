@@ -4,11 +4,8 @@ collection: publications
 permalink: /publication/paper_1
 excerpt: 'We present a theoretical analysis of F-measures for binary, multiclass and multilabel classification. These performance measures are non-linear, but in many scenarios they are pseudo-linear functions of the per-class false negative/false positive rate. Based on this observation, we present a general reduction of F-measure maximization to cost-sensitive classification with unknown costs. We then propose an algorithm with provable guarantees to obtain an approximately optimal classifier for the F-measure by solving a series of cost-sensitive classification problems. The strength of our analysis is to be valid on any dataset and any class of classifiers, extending the existing theoretical results on F-measures, which are asymptotic in nature. We present numerical experiments to illustrate the relative importance of cost asymmetry and thresholding when learning linear classifiers on various F-measure optimization tasks.'
 date: 2014-12-06
-venue: 'NIPS 2014'
+venue: 'NIPS'
 paperurl: 'http://papers.nips.cc/paper/5508-optimizing-f-measures-by-cost-sensitive-classification/'
-citation: 'http://papers.nips.cc/paper/5508-optimizing-f-measures-by-cost-sensitive-classification/bibtex'
 ---
 
 [Download paper here](http://papers.nips.cc/paper/5508-optimizing-f-measures-by-cost-sensitive-classification/)
-
-Recommended citation: [http://papers.nips.cc/paper/5508-optimizing-f-measures-by-cost-sensitive-classification/bibtex]
