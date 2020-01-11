@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, University of Technology of Compiegne, France, 2016
+* M.S. in Computing Science, Umea University, Sweden, 2013
+* B.Tech. in Computer Science and Engineering, Kerala University, India, 2004
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2012: Research Assistant
+  * Qatar Computing Research Institute, Doha, Qatar
+  * Supervisor: Sihem Amer-Yahia 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: Research Assistant
+  * Qatar Computing Research Institute, Doha, Qatar
+  * Supervisor: Sanjay Chawla
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Julia, Perl, Java, Matlab, 
 
 Publications
 ======
@@ -48,12 +41,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer: AAAI 2019, 2020; CIKM 2019
