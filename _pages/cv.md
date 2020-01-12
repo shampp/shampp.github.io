@@ -41,6 +41,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Services
 ======
 * Reviewer: AAAI 2019, 2020; CIKM 2019
